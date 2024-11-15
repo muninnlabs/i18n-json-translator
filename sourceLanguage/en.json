@@ -1,0 +1,36 @@
+{
+    "greeting": "Hello",
+    "farewell": "Goodbye",
+    "thankYou": "Thank you",
+    "welcome": "Welcome",
+    "yes": "Yes",
+    "no": "No",
+    "please": "Please",
+    "sorry": "Sorry",
+    "congratulations": "Congratulations",
+    "goodMorning": "Good morning",
+    "goodNight": "Good night",
+    "howAreYou": "How are you?",
+    "niceToMeetYou": "Nice to meet you",
+    "seeYouLater": "See you later",
+    "takeCare": "Take care",
+    "happyBirthday": "Happy birthday",
+    "merryChristmas": "Merry Christmas",
+    "happyNewYear": "Happy New Year",
+    "goodLuck": "Good luck",
+    "haveAGreatDay": "Have a great day",
+    "nested": {
+        "greeting": {
+            "formal": "Good day",
+            "informal": "Hey"
+        },
+        "farewell": {
+            "formal": "Farewell",
+            "informal": "See ya"
+        },
+        "responses": {
+            "positive": "Absolutely",
+            "negative": "No way"
+        }
+    }
+}
